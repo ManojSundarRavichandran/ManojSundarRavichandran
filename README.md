@@ -4,9 +4,10 @@
 
 ## Hi, I'm Manoj Sundar Ravichandran 👋
 🎓 M.Sc. Artificial Intelligence & Robotics  
-💻 Software Engineer| AI/ML Engineer | Computer Vision | LLM Systems  
+💻 Software Engineer| AI/ML Engineer | Computer Vision & LLM Applications | Software Systems
+🚀 Building real-world AI solutions from idea to deployment
+🧠 Fast adopter of new AI tools & frameworks
 
-I am a Master's student specializing in Artificial Intelligence & Robotics with hands-on experience in building computer vision pipelines, robotics systems, and LLM-powered applications.  
 
 I enjoy working on end-to-end AI projects that combine perception, reasoning, and deployment for real-world impact.
 
