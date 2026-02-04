@@ -47,6 +47,10 @@
 ![Claude](https://img.shields.io/badge/Claude-111111?style=for-the-badge)
 ![Cursor](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
 
+## 📜 Certifications
+- Artificial Intelligence and Machine Learning — IITM / HCL  
+- Python for Computer Vision with OpenCV and Deep Learning — Udemy  
+- Build RAG from Scratch — LinkedIn Learning  
 
 
 
