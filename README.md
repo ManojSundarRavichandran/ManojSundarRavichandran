@@ -1,10 +1,6 @@
 <p align="center">
   <img src="cover_page.png" width="100%" />
 </p>
-
-
-
-
 ## Hi there 👋
 
 <!--
