@@ -6,7 +6,7 @@
 🎓 M.Sc. Artificial Intelligence & Robotics<br>
 💻 Software Engineer | Student Researcher (AI/ML) | Computer Vision & LLM Applications | Software Systems<br>
 🚀 Building real-world AI solutions from idea to deployment<br>
-🧠 Fast adopter of new AI tools & frameworks<br>
+🧠 Fast adopter of emerging AI tools & frameworks<br>
 
 
 
