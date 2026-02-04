@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="cover_page.png" width="100%" />
 </p>
 
-![Banner](cover_page.png)
 
 
 
