@@ -14,6 +14,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ### 🧠 LLMs & GenAI
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-6A5ACD?style=for-the-badge)
