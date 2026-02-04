@@ -8,6 +8,11 @@
 🚀 Building real-world AI solutions from idea to deployment<br>
 🧠 Fast adopter of emerging AI tools & frameworks<br>
 
+## 🔄 Currently Working On
+- Simulation-based dataset generation, sensor fusion, and YOLO-based perception for autonomous driving using NVIDIA Isaac Sim  
+- RAG-based LLM system on MIMIC medical text dataset using FAISS, LangChain, and LlamaIndex  
+
+
 ## 💻 Tech Stack
 
 ### 🧠 AI / Machine Learning
