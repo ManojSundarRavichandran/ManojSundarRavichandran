@@ -3,6 +3,13 @@
 </p>
 
 ## Hi, I'm Manoj Sundar Ravichandran 👋
+🎓 M.Sc. Artificial Intelligence & Robotics  
+🤖 AI/ML Engineer | Computer Vision | LLM Systems  
+
+I am a Master's student specializing in Artificial Intelligence & Robotics with hands-on experience in building computer vision pipelines, robotics systems, and LLM-powered applications.  
+
+I enjoy working on end-to-end AI projects that combine perception, reasoning, and deployment for real-world impact.
+
 
 <!--
 **ManojSundarRavichandran/ManojSundarRavichandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
