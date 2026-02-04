@@ -1,7 +1,8 @@
 <p align="center">
   <img src="cover_page.png" width="100%" />
 </p>
-## Hi there 👋
+
+## Hi, I'm Manoj Sundar Ravichandran 👋
 
 <!--
 **ManojSundarRavichandran/ManojSundarRavichandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
