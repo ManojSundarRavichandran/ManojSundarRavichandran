@@ -9,8 +9,6 @@
 🧠 Fast adopter of new AI tools & frameworks
 
 
-I enjoy working on end-to-end AI projects that combine perception, reasoning, and deployment for real-world impact.
-
 
 <!--
 **ManojSundarRavichandran/ManojSundarRavichandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
