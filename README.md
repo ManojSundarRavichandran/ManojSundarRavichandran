@@ -1,4 +1,5 @@
-![Banner](White and Blue Simple Gradient Business Profile LinkedIn Banner.png)
+
+
 
 ## Hi there 👋
 
