@@ -3,10 +3,11 @@
 </p>
 
 ## Hi, I'm Manoj Sundar Ravichandran 👋
-🎓 M.Sc. Artificial Intelligence & Robotics
-💻 Software Engineer | Student Researcher (AI/ML) | Computer Vision & LLM Applications | Software Systems
-🚀 Building real-world AI solutions from idea to deployment
-🧠 Fast adopter of new AI tools & frameworks
+🎓 M.Sc. Artificial Intelligence & Robotics<br>
+💻 Software Engineer | Student Researcher (AI/ML) | Computer Vision & LLM Applications | Software Systems<br>
+🚀 Building real-world AI solutions from idea to deployment<br>
+🧠 Fast adopter of new AI tools & frameworks<br>
+
 
 
 
